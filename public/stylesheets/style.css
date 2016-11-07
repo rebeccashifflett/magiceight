@@ -1,0 +1,20 @@
+body {
+  background-color: #78819E;
+  font-style: italic;
+  color: white;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  color: black;
+
+}
+
+a {
+  color: black;
+  font-size: 30px;
+}
